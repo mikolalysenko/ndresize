@@ -1,4 +1,4 @@
-ndimage-resize
+ndresize
 ==============
 Code for cropping and padding n-dimensional images.
 

@@ -1,5 +1,5 @@
 {
-  "name": "ndimage-resize",
+  "name": "ndresize",
   "version": "0.0.0",
   "description": "Resizes n-dimensional images (or volumes) by cropping and padding",
   "main": "index.js",
